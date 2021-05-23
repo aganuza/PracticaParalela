@@ -1,0 +1,1 @@
+Simulacion: Sanos: 99% Infectados: 0% Sintomas: 1% Recuperados: 0% Vacunados: 0% Muertos: 0% Tiempo de Ejecución: 0.043204 s
